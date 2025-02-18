@@ -1,3 +1,4 @@
+import pygame
 from circleshape import *
 from constants import PLAYER_RADIUS
 from constants import PLAYER_TURN_SPEED
